@@ -1,5 +1,3 @@
-# 3D Agent Docker 离线验证包
+# 3D Agent Docker 复现
 
-下载包含 Docker 镜像、构建依赖、验证脚本和示例结果的 Linux amd64 验证包。Release 页面提供 ZIP 分卷和合并命令。
-
-[打开下载页](https://github.com/wxgmjfhy/temptele/releases/tag/agent-3d-docker-bundle-2026-11-19)
+从固定版本的 Ubuntu 和工具依赖重新构建 Docker 镜像，并运行 Blender、CadQuery、Godot 和 OpenCode 功能验证。 [复现目录和运行步骤](agent-3d-docker/)

@@ -1,0 +1,4 @@
+*
+!Dockerfile
+!install-apt.sh
+!cadquery.lock
